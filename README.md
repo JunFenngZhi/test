@@ -9,4 +9,4 @@ c6 commit
 c7 git pull origin main
 
 c8 git pull origin main
-c9: try to make a conflict in remote
+c9: try to make a conflict in remote conflict when add
