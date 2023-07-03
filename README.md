@@ -12,5 +12,6 @@ c8 git pull origin main
 c9: try to make a conflict in remote conflict when add
 c10: use git pull --rebase in remote repo
 
-c11: remote create rebase
-
+c11: create rebase
+c12: duplicate commit and they need to be squashed.
+c12': duplicate
